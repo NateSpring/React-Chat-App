@@ -1,0 +1,2 @@
+# React-Chat-App
+This is a code challenge project that was presented to me from a small company. The task was to build a frontend for a React chat app using Hooks and functional components. The backend had been built already and used a local JSON file acting as a "message database". This was extremely fun because I learned the in's-n-out's of hooks and gained a deeper knowledge of functional components vs class-based components. 
