@@ -1,0 +1,30 @@
+{
+  "name": "ReactTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node ./src/index.js",
+    "start:watch": "nodemon --exec npm run start"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "2.14.0"
+  },
+  "dependencies": {
+    "@koa/cors": "2",
+    "chalk": "^2.4.1",
+    "koa": "^2.5.3",
+    "koa-body": "^4.0.4",
+    "koa-json-error": "^3.1.2",
+    "koa-router": "^7.4.0",
+    "nodemon": "^1.18.4",
+    "uuid": "^3.3.2"
+  }
+}
