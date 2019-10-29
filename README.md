@@ -3,7 +3,7 @@ This is a code challenge project that was presented to me from a small company. 
 
 To install, clone this repo then: 
 
-1. To install dependenceies - npm install 
+1. To install dependenceies - cd chat-app npm install, then cd chat-backend npm install
 2. cd chat-app => npm run start
 3. cd chat-backend => npm run start
 4. Viola! You have a locally hosted React Chat App with hooks and functional components. Enjoy!
